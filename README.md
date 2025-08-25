@@ -23,7 +23,20 @@ Permite gestionar productos, registrar ventas y generar reportes de manera senci
 
 >  Proyecto académico de práctica, no está pensado para producción.
 
+---
 
+## 🖼️ Capturas de pantalla
+
+### Ventas
+![Ventas](img/P1.png)
+
+### Productos
+![Productos](img/P2.png)
+
+### Reportes
+![Reportes](img/P3.pngg)
+
+---
 
 ## Tecnologías
 
