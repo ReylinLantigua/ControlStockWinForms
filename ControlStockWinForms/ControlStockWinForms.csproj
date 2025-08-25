@@ -56,9 +56,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\InventarioContext.cs" />
-    <Compile Include="Data\RepositorioProducto.cs" />
-    <Compile Include="Data\RepositorioVenta.cs" />
+    <Compile Include="Controllers\InventarioContext.cs" />
+    <Compile Include="Controllers\RepositorioProducto.cs" />
+    <Compile Include="Controllers\RepositorioVenta.cs" />
     <Compile Include="UI\Forms\FormHome.cs">
       <SubType>Form</SubType>
     </Compile>
