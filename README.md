@@ -28,13 +28,13 @@ Permite gestionar productos, registrar ventas y generar reportes de manera senci
 ## 🖼️ Capturas de pantalla
 
 ### Ventas
-![Ventas](img/P1.png)
+![Ventas](img/_P1.png)
 
 ### Productos
-![Productos](img/P2.png)
+![Productos](img/_P2.png)
 
 ### Reportes
-![Reportes](img/P3.pngg)
+![Reportes](img/_P3.pngg)
 
 ---
 
