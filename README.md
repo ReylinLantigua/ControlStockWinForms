@@ -34,7 +34,7 @@ Permite gestionar productos, registrar ventas y generar reportes de manera senci
 ![Productos](img/_P2.png)
 
 ### Reportes
-![Reportes](img/_P3.pngg)
+![Reportes](img/_P3.png)
 
 ---
 
