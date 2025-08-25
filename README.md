@@ -37,7 +37,7 @@ Permite gestionar productos, registrar ventas y generar reportes de manera senci
 ## Instalación y Ejecución
 
 1. Clonar el repositorio:
-> git clone <URL-del-repositorio>
+> git clone https://github.com/ReylinLantigua/ControlStockWinForms.git
 
 2. Abrir la solución `ControlStockWinForms.sln` en Visual Studio.
 3. Restaurar los paquetes NuGet (Entity Framework).
@@ -45,6 +45,7 @@ Permite gestionar productos, registrar ventas y generar reportes de manera senci
 5. Ejecutar la aplicación desde Visual Studio (`F5`).
 
 
+```
 
 ## Estructura del Proyecto
 
@@ -61,7 +62,7 @@ ControlStockWinForms/
 │  └─ packages/                 # Paquetes NuGet (opcional ignorar)
 └─ ScriptBaseDatos.sql           # Script SQL para crear la base de datos
 
-
+```
 
 ## Uso
 
